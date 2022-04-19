@@ -1,4 +1,4 @@
-Pre-processing in Genome Analysis
+Pre-processing in Genome Analysis:
 
  **In Quality Control**, the purpose of performing the **Read Quality Control** to understand your raw data, make informed decisions on how to handle it and maximise your chances of getting a good quality assembly.
   
